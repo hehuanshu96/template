@@ -1,7 +1,7 @@
 import sys
 import subprocess
 
-execute_script = '../config/scons/scons.py'
+execute_script = 'C:\Users\jshapir1\Downloads\pythontemp\env\config\scons\scons.py'
 
 def main(execute_script):
     '''

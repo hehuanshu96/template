@@ -5,3 +5,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 release/sconstruct.log filter=lfs diff=lfs merge=lfs -text
+release\lg\data.txt filter=lfs diff=lfs merge=lfs -text
